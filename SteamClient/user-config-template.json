@@ -1,0 +1,6 @@
+{
+  "apiKey": "<your ApkKey",
+  "steamId": <your steamId>,
+  "depth": 3,
+  "playerLimit": 30
+}
